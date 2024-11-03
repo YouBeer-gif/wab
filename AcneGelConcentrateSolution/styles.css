@@ -1,0 +1,17 @@
+
+nav{
+    background-color: rgba(252,242,101,255);
+}
+.menuproducts img{
+    width: 100%;
+}
+.menuproducts {
+    max-width: 500px;
+}
+.menuproductscss {
+    display: flex;
+}
+.productstext{
+    display: block;
+
+}
